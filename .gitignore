@@ -84,3 +84,8 @@ target/
 # Data files
 *.csv
 *.feather
+
+# Pictures
+*.png
+*.jpg
+*.jpeg
